@@ -39,3 +39,22 @@ section
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+section
+{
+    display: flex;
+    font-size: larger;
+    font-weight: 700;
+}
+.always-dream-big
+{
+    width: 50%;
+    padding: 5%;
+}
+.always-dream-big img
+{
+    width: 80%;
+}
+.just-color
+{
+    color: orange;
+}
