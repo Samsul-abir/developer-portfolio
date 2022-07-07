@@ -12,10 +12,12 @@ h1
 {
     color: orange;
 }
-section
+.flexible-container
 {
     display: flex;
     margin-bottom: 100px;
+    font-size: larger;
+    font-weight: 400;
 }
 .half-width
 {
@@ -40,11 +42,12 @@ section
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-section
+.section
 {
     display: flex;
+    margin-bottom: 100px;
     font-size: larger;
-    font-weight: 700;
+    font-weight: 400;
 }
 .always-dream-big
 {
@@ -64,4 +67,9 @@ section
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.experience-codes
+{
+    font-size: medium;
+    font-weight: 400;
 }
